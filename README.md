@@ -7,15 +7,15 @@
 
 * Alunos envolvidos na elaboração da videoaula:
 	- Pedro Lísias Viana Arcoverde Alves - 190036559:
-		. A motivação para o estilo.
+		- A motivação para o estilo.
 	- Kléber Rodrigues da Costa Júnior - 200053680:
-		. Os principais elementos de código fonte.
+		- Os principais elementos de código fonte.
 	- Paulo Victor França de Souza - 200042548:
-		. As restrições de design e a opção de decomposição.
-		. Edição do vídeo.
+		- As restrições de design e a opção de decomposição.
+		- Edição do vídeo.
 	- Thais Fernanda de Castro Garcia - 200043722:
-		. Onde o estilo vem sendo tipicamente usado.
-		. Notas históricas.
+		- Onde o estilo vem sendo tipicamente usado.
+		- Notas históricas.
 
 * Grupo 1:
 	- Andre Milhomem Araujo de Godoi - 202033427;
