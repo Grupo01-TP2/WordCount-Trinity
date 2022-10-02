@@ -1,6 +1,6 @@
 # Word Count - Trinity
 
-* Criação e implementação de um algoritmo contador de palavras (word count) na linguagem de programação JavaScript.
+* Criação e implementação de um algoritmo contador de palavras (word count) na linguagem de programação JavaScript, usando o estilo de programação Trinity, presente no livro "Exercises in Programming Style".
 
 * Videoaula Estilo de Programação Trinity - G1: (https://youtube.com/watch?v=t7hASIRsf8o)
 	- A motivação para o estilo.
