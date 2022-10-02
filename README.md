@@ -1,4 +1,4 @@
-# WordCount - Trinity
+# Word Count - Trinity
 
 * Criação e implementação de um algoritmo contador de palavras (word count) na linguagem de programação JavaScript.
 
@@ -9,7 +9,7 @@
  	- Onde o estilo vem sendo tipicamente usado.
  	- Notas históricas.
 
-* Alunos:
+* Grupo 1:
 	- Andre Milhomem Araujo de Godoi - 202033427.
 	- Kléber Rodrigues da Costa Júnior - 200053680.
 	- Paulo Victor França de Souza - 200042548.
