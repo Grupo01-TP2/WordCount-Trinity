@@ -3,11 +3,11 @@
 * Criação e implementação de um algoritmo contador de palavras (word count) na linguagem de programação JavaScript.
 
 * Videoaula Estilo de Programação Trinity - G1: (youtube.com/watch?v=t7hASIRsf8o)
- - A motivação para o estilo.
- - As restrições de design e a opção de decomposição .
- - Os principais elementos de código fonte.
- - Onde o estilo vem sendo tipicamente usado.
- - Notas históricas.
+	- A motivação para o estilo.
+ 	- As restrições de design e a opção de decomposição .
+ 	- Os principais elementos de código fonte.
+ 	- Onde o estilo vem sendo tipicamente usado.
+ 	- Notas históricas.
 
 * Alunos:
 	- Andre Milhomem Araujo de Godoi - 202033427.
